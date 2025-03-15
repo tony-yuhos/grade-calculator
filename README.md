@@ -1,6 +1,12 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Why I made this project
+
+Grade Calculators are a great tool for determining what score you need to get to achieve a certain grade and estimating the probability for that to happen.  
+However, I didn't like the way many grade calculators online are formatted, having to enter weight percentages for every item.  
+In my solution, you instead choose weighted categories for each graded item, making entering many items much easier.
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 First, run the development server:
 
